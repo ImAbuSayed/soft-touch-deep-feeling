@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/soft-touch-deep-feeling/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Soft Touch Deep Feeling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-touch-deep-feeling/) |
+| **Get License** | [Obtain a Music License for Soft Touch Deep Feeling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-touch-deep-feeling/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I trace the shadows falling softly on your face
+> There is a quiet fire burning in this place
+> We leave the world behind and lock the wooden door
+> I only want you closer than I did before
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
