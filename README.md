@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/soft-touch-deep-feeling/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Soft Touch Deep Feeling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-touch-deep-feeling/) |
+| **Get License** | [Commercial Licensing for Soft Touch Deep Feeling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-touch-deep-feeling/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1ec7f0329662a6c328e18059737d5242ffb4c6b7793e1010d1040c9a8d85dbfa` |
 | **Timestamp** | June 05, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
